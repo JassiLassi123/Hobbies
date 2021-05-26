@@ -1,0 +1,33 @@
+body{
+    background:linear-gradient( #FFFF00 0%,#FF0000 100%);
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+#p{
+    font-size: larger ;
+}
+.menu{
+    list-style:none;
+    font-family: cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color:black;
+}
+.links{
+    display:inline;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:9px;
+    padding-left:9px;
+
+}
+#welcome{
+    padding:70px;
+    text-align: center;
+}
